@@ -1,0 +1,11 @@
+NOTE:(INSTRUCTONS)
+
+TO RUN THIS PROJECT, PLEASE REFER THE GOOGLE COLAB LINK (ALSO MENTIONED IN THE REPORT):
+
+https://colab.research.google.com/drive/1Vt1jGXLp31HFwioRrvJXIX7wMCwjlKZl#scrollTo=Yo-Iagd5ambP
+
+RUN EACH MODULE IN THE CODE and download cifarmodel file from the files.
+
+AND RUN THE GUI CODE GIVEN ALONG WITH CIFARMODEL file in same directory.
+
+THANKyou...
